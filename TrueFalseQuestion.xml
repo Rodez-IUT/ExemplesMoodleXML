@@ -1,9 +1,9 @@
 <question type="truefalse">
 <name>
-		<text>A branch in Git consists of the duplication of the project in a new folder</text>
+		<text>A branch, in Git, consists of the duplication of the project in a new folder</text>
 	</name>
 	<questiontext format="html">
-		<text>True or false ?</text>
+		<text>True or false </text>
 	</questiontext>
  <answer fraction="0">
     <text>true</text>
